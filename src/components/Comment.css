@@ -1,0 +1,37 @@
+.UserInfo img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.Container {
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.comment-first {
+  background-color: bisque;
+
+  height: 200px;
+  background: linear-gradient(red, green, blue, yellow);
+}
+.UserInfo-name {
+  color: white;
+  font-weight: 800;
+  font-size: 20px;
+}
+
+.Comment-text {
+  margin-top: 10px;
+  background-color: coral;
+  width: 150px;
+  height: 150px;
+  box-shadow: 0 0 2px 1px black;
+  position: relative;
+  left: 25px;
+  font-size: 18px;
+  color: white;
+}
